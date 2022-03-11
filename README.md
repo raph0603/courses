@@ -1,2 +1,2 @@
 # Courses
-My courses
++ My courses

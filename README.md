@@ -1,2 +1,2 @@
-# Course
+# Courses
 My courses
